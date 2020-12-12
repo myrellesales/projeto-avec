@@ -1,0 +1,18 @@
+.header{
+  height: 33vh;
+  padding: 5px;
+  /* min-height: 60vh;
+    /* height: 90px; 
+    background-color:rgba(243, 240, 234, 0.904);
+    /* background: linear-gradient(rgba(255, 0, 255, 0.2),
+                                rgba(255, 0, 255, 0.2)); */
+                /* url(../img/bg-banner-claro.png);
+    background-size: cover;
+    background-repeat: no-repeat; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* text-align: center; */
+    /* color: white; */
+    background-color: rgb(239, 239, 247);
+}

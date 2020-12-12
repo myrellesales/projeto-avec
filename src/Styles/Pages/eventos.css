@@ -1,0 +1,20 @@
+
+.eventos{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: center;
+  /* background-color: rgb(222, 240, 222);
+  display:flex;
+  justify-content: space-around; */
+  /* color:white; */
+  width: 100%;
+}
+
+
+.infos{
+  
+  background-color: rgb(239, 239, 247);
+    /* height: 60vh; */
+    width: 100rem;
+    align-items:center;
+  }
